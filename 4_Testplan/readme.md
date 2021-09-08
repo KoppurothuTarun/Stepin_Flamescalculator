@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |Checking flame status|Tarun,Varun|Lover|enimees| Scenario based|
+|  H_01       |Checking flame status|Tarun,Varun|Enemies|Enemies| Scenario based|
 |  H_02       |Checking flame status|Nani,vani|Friends|Friends|Scenario based    |
 
 ## Table no: Low level test plan

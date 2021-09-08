@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |Checking flame status|Maneesh,chaitanya|Lover|Lover | Scenario based|
+|  H_01       |Checking flame status|maneesh,chaitanya|Lover|Lover | Scenario based|
 |  H_02       |Checking flame status|Nani,vani|Friends|Friends|Scenario based    |
 
 ## Table no: Low level test plan
